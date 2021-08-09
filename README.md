@@ -14,3 +14,5 @@ Full screen- Keeping both of our hands in front of the centre and right sensor
 Snapshot- Keep both of our hands in front of the left and centre sensor.
 
 Adaptive brightness- LDR sensor is used to produce adaptive brightness by detecting ambient brightness and light intensity.
+
+Circuit diagram https://github.com/Nithin-K-Shine/Gesture-control/blob/main/Circuit.jpg
